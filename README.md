@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jalancastro
 - 👀 I’m interested in game development, playing games, and sports!
-- 🌱 I’m currently learning Python and C#
-- 📫 How to reach me alan.castro44@gmail.com
+- 🌱 I’m currently learning Java, Python, and C#
+- 📫 Reach me at alan.castro44@gmail.com
 
 <!---
 jalancastro/jalancastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
