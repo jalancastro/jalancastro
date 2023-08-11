@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jalancastro
+- 🏫 Current student at CGCC/ASU
 - 👀 I’m interested in game development, playing games, and sports!
-- 🌱 I’m currently learning Java, Python, and C#
+- 🌱 I’m currently learning Java, C#, and other languages
 - 📫 Reach me at alan.castro44@gmail.com
 
 <!---
